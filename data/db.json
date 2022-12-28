@@ -1,0 +1,27 @@
+{
+  "projects": [
+    {
+      "title": "Create a Simple Timer",
+      "details": "A timer is one of the easiest projects you can complete using JavaScript. Although it sounds pretty basic, it teaches you how to change the state of an element at timed intervals.\n\nTo add a bit of creativity, you can build a countdown timer that stops at a user-specified value. You don't need to store anything in a database or JSON object, as this is an instance that users can tweak as they wish.",
+      "complete": true,
+      "id": 1,
+      "{\"complete\":false}": ""
+    },
+    {
+      "title": "A Simple To-Do List App",
+      "details": "While building a to-do list using JavaScript, you'll learn the basic logic behind CRUD actions. You'll also explore the event handling functions of JavaScript. In this project, you'll craft a script to create, read, update, and delete tasks.\n\nUsing event handlers, you'll handle form submissions to enter each task, then display them after creation. Once the JavaScript code for controlling your app's functionality works, you can use the CSS grid display method to organize each task. Then assign priority to them using the JavaScript conditional statement and date methods.",
+      "complete": false,
+      "id": 2,
+      "{\"complete\":true}": "",
+      "{\"complete\":false}": ""
+    },
+    {
+      "title": "Web Calculator",
+      "details": "JavaScript, like other programming languages, supports numerous mathematical operations. So, while coding this project, you'll learn how to use these operators dynamically. You'll also add click events to custom HTML buttons or divs and learn how to organize your UI using CSS. That's all it takes to build a responsive calculator that displays in the browser.\n\nIf you're unfamiliar with JavaScript operators, you'll get an opportunity to start playing around with them. You'll then wrap your head around event handlers to better understand how they work.",
+      "complete": true,
+      "id": 3,
+      "{\"complete\":false}": "",
+      "{\"complete\":true}": ""
+    }
+  ]
+}
